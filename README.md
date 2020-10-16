@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm currently looking for a job don't hesitate to contact me at ugo.dumontot@gmail.com.
+
 <!--
 **Ragnar-Oock/ragnar-oock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
