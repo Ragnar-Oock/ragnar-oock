@@ -12,8 +12,7 @@ I'm a French web dev primarily working on web apps and tools to make my life and
 
 ## Work in progress
 - [CSS Grid Generator](https://github.com/Ragnar-Oock/css-grid-generator) : spreading the love for the [`grid-template`](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template) shorthand by explaining it visually and providing a WYSIWYG style editor
-- [Plugin Engine](https://github.com/Ragnar-Oock/plugin-engine) : a minimalistic plugin engine to create complex apps
-- [Event Emitter](https://github.com/Ragnar-Oock/event-emitter) : a JS/TS implementation of the [`EventTarget API`](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget) staying as close to the spec as possible
+- [Zoram](https://github.com/Ragnar-Oock/zoram) : a minimalist plugin framework to build modular apps
 
 ## Future experiments
 - [`Web Animation API`](https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API) + [`Canvas`](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)/[`WebGL`](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API) : explore the use of WAAPI with canvas-based rendering for applications and websites
