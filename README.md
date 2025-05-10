@@ -17,7 +17,7 @@ Send me an email at u.drgnk@outlook.com
 
 ## Work in progress
 - [CSS Grid Generator](https://github.com/Ragnar-Oock/css-grid-generator) : spreading the love for the [`grid-template`](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template) shorthand by explaining it visually and providing a WYSIWYG style editor
-- [Zoram](https://github.com/Ragnar-Oock/zoram) : a minimalist plugin framework to build modular apps
+- [Zoram](https://github.com/Ragnar-Oock/zoram) : a minimalist plugin framework to build modular apps, [checkout the doc](https://ragnar-oock.github.io/zoram/)
 
 ## Future experiments
 - [`Web Animation API`](https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API) + [`Canvas`](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)/[`WebGL`](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API) : explore the use of WAAPI with canvas-based rendering for applications and websites
