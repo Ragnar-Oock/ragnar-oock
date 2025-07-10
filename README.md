@@ -1,15 +1,18 @@
 # Web 🥔
-I'm a French web dev primarily working on web apps and tools to make my life and that of others easier.
+<span style="font-size: 3em">I'm a French Web Software Engineer creating the tools to empower people.</span>
 
 ## Looking for a job
 Even a potato gotta pay rent. If you like what you see, why not work together on something?
 
-Send me an email at u.drgnk@outlook.com
+Get in touch : u.drgnk@outlook.com
 
 ## Realised stuff
 ### Projects
+- [xoram](https://github.com/Ragnar-Oock/xoram) : a minimalist plugin framework to build modular apps, [checkout the doc](https://xoram.dev/)
 - [Setlist](https://setlist.warths.fr/) / [Setlist Backend](https://github.com/Ragnar-Oock/setlist_v2_connexion) : a small Vue 2 app to look for and request songs to be played on a Twitch guitar livestream
 ### CodePen experimentations
+- changing to dark mode, but it's PowerPoint transition: [rotating cube](https://codepen.io/ragnar_ock/pen/QwbYbOQ) [sliding windows](https://codepen.io/ragnar_ock/pen/KwpYaGb)
+- rotating a cube on scroll with CSS only: [scroll driven cube](https://codepen.io/ragnar_ock/pen/gbpEVeZ)
 - a demo of how to use named grid tracks to have overlapping `grid-area` : [grid overlap](https://codepen.io/ragnar_ock/pen/YzbqOmK)
 - a CSS-only digital clock (it can't drift like setTimeout based clock!) : [CSS only digital clock](https://codepen.io/ragnar_ock/pen/YzLOYNG)
 - bent scrolling list : [skew list experiment](https://codepen.io/ragnar_ock/pen/eYzpLWp)
@@ -17,7 +20,6 @@ Send me an email at u.drgnk@outlook.com
 
 ## Work in progress
 - [CSS Grid Generator](https://github.com/Ragnar-Oock/css-grid-generator) : spreading the love for the [`grid-template`](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template) shorthand by explaining it visually and providing a WYSIWYG style editor
-- [xoram](https://github.com/Ragnar-Oock/xoram) : a minimalist plugin framework to build modular apps, [checkout the doc](https://xoram.dev/)
 
 ## Future experiments
 - [`Web Animation API`](https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API) + [`Canvas`](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)/[`WebGL`](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API) : explore the use of WAAPI with canvas-based rendering for applications and websites
