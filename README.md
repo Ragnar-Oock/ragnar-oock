@@ -19,6 +19,7 @@ Get in touch : u.drgnk@outlook.com
 - colorful spot funk : [funk overload](https://codepen.io/ragnar_ock/pen/MWyqZeQ)
 
 ## Work in progress
+- [colon](https://github.com/Ragnar-Oock/colon) : a small board game made with Vue 3 and losely inspired by Colon Catan (like very losely), [play it here](https://ragnar-oock.github.io/colon)
 - [CSS Grid Generator](https://github.com/Ragnar-Oock/css-grid-generator) : spreading the love for the [`grid-template`](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template) shorthand by explaining it visually and providing a WYSIWYG style editor
 
 ## Future experiments
