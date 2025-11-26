@@ -1,5 +1,5 @@
 # Web 🥔
-<span style="font-size: 3em">I'm a French Web Software Engineer creating the tools to empower people.</span>
+I'm a French Web Software Engineer creating the tools to empower people (and fucking arround a bit).
 
 ## Looking for a job
 Even a potato gotta pay rent. If you like what you see, why not work together on something?
@@ -19,7 +19,7 @@ Get in touch : u.drgnk@outlook.com
 - colorful spot funk : [funk overload](https://codepen.io/ragnar_ock/pen/MWyqZeQ)
 
 ## Work in progress
-- [colon](https://github.com/Ragnar-Oock/colon) : a small board game made with Vue 3 and losely inspired by Colon Catan (like very losely), [play it here](https://ragnar-oock.github.io/colon)
+- [colon](https://github.com/Ragnar-Oock/colon) : a small board game made with Vue 3 and losely inspired by Colon Catan (like very losely), [🎮 play it here](https://ragnar-oock.github.io/colon) or [📋 checkout the backlog](https://github.com/users/Ragnar-Oock/projects/2/views/1)
 - [CSS Grid Generator](https://github.com/Ragnar-Oock/css-grid-generator) : spreading the love for the [`grid-template`](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template) shorthand by explaining it visually and providing a WYSIWYG style editor
 
 ## Future experiments
